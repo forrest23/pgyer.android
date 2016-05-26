@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgyer.android", "pgyer.android.csproj", "{B91CD850-99A5-4AC7-B8F1-CB695EBAAB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91CD850-99A5-4AC7-B8F1-CB695EBAAB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91CD850-99A5-4AC7-B8F1-CB695EBAAB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91CD850-99A5-4AC7-B8F1-CB695EBAAB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91CD850-99A5-4AC7-B8F1-CB695EBAAB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

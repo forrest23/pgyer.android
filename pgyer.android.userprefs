@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="pgyer.android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../Project/XFworkspace/KDYS/Fugao.Platform/Fugao.KDYS/PocketDoctor.Droid/MainActivity.cs" Line="80" Column="4" />
+      <File FileName="../../Project/XFworkspace/KDYS/Fugao.Platform/Fugao.KDYS/PocketDoctor.Droid/Properties/AndroidManifest.xml" Line="29" Column="52" />
+      <File FileName="../../Project/XFworkspace/KDYS/Fugao.Platform/Fugao.KDYS/PocketDoctor.Droid/Service/UpdateVersion.cs" Line="24" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
